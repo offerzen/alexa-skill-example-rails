@@ -18,7 +18,7 @@ class MailerService
 
   def send_portfolio_overview
     user_email = "Gys <gys.muller@gmail.com>"
-    message = "Here is an overview of your portfolio https://docs.google.com/spreadsheets/d/1qbZfJ9SNGbpQP0Jq2pg7KLLIWKNx6wtIwq6lfUTNJqI/edit#gid=0"
+    message = "Here is an overview of your portfolio https://docs.google.com/spreadsheets/d/1HHkMUo97gVGhG9Rs_zOIGPG5DqB2P8dPVtVgEgsbu0s/edit#gid=0"
 
     RestClient.post @url,
       from: @from,

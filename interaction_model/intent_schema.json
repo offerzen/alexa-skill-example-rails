@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "GetPortfolioPerformance"
+    },
+    {
+      "intent": "GetPortfolioValue"
+    },
+    {
+      "intent": "GetMoreOptions"
+    },
+    {
+      "intent": "ChooseStockPrice",
+      "slots": [
+        {
+          "name": "Stock",
+          "type": "LIST_OF_STOCK"
+        }
+      ]
+    },
+    {
+      "intent": "ChooseMonthlyContribution"
+    },
+    {
+      "intent": "IncreaseMonthlyContribution",
+      "slots": [
+        {
+          "name": "Increase",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

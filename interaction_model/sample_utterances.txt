@@ -1,0 +1,58 @@
+GetPortfolioPerformance Performing
+GetPortfolioPerformance Performance
+GetPortfolioPerformance How is it performing
+GetPortfolioPerformance How is my portfolio performing
+GetPortfolioPerformance How is my portfolio doing
+GetPortfolioPerformance My portfolio performance
+GetPortfolioPerformance Tell me my portfolio performance
+GetPortfolioPerformance Tell me how my portfolio is performing
+GetPortfolioPerformance How my portfolio is performing
+
+GetPortfolioValue Value
+GetPortfolioValue Total value
+GetPortfolioValue Total portfolio value
+GetPortfolioValue What is the value
+GetPortfolioValue What is the total value
+GetPortfolioValue What is the value of my portfolio
+GetPortfolioValue What is the total value of my portfolio
+GetPortfolioValue Portfolio value
+GetPortfolioValue Portfolio total value
+GetPortfolioValue My portfolio value
+GetPortfolioValue Tell me the value of my portfolio
+GetPortfolioValue Tell me the total value of my portfolioGetMoreOptions
+
+GetMoreOptions more options
+GetMoreOptions I want to hear more options
+GetMoreOptions to hear more options
+GetMoreOptions hear more options
+GetMoreOptions options
+
+ChooseStockPrice check the price of {Stock}
+ChooseStockPrice check the stock price of {Stock}
+ChooseStockPrice check the stock value of {Stock}
+ChooseStockPrice check the value of {Stock}
+ChooseStockPrice what is the value of {Stock}
+ChooseStockPrice what is the stock price of {Stock}
+ChooseStockPrice what is the price of {Stock}
+ChooseStockPrice what is the stock value of {Stock}
+ChooseStockPrice price of {Stock}
+ChooseStockPrice stock price of {Stock}
+ChooseStockPrice stock value of {Stock}
+ChooseStockPrice value of {Stock}
+
+ChooseMonthlyContribution increase my monthly contribution
+ChooseMonthlyContribution increase monthly contribution
+ChooseMonthlyContribution increase my contribution
+ChooseMonthlyContribution increase contribution
+ChooseMonthlyContribution monthly contribution
+ChooseMonthlyContribution my contribution
+ChooseMonthlyContribution my monthly contribution
+
+IncreaseMonthlyContribution {Increase}
+IncreaseMonthlyContribution {Increase} rand
+IncreaseMonthlyContribution increase with {Increase}
+IncreaseMonthlyContribution increase with {Increase} rand
+IncreaseMonthlyContribution increase my contribution with {Increase}
+IncreaseMonthlyContribution increase my contribution with {Increase} rand
+IncreaseMonthlyContribution increase my monthly contribution with {Increase}
+IncreaseMonthlyContribution increase my monthly contribution with {Increase} rand
