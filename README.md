@@ -2,8 +2,8 @@
 
 This project demonstrates some of the functionality which can be achieved with an Alexa skill service. This services enables a user to:
 
-* fetch values for a Google Sheet
-* write values to a Google Sheet
+* fetch values for a [Google Sheet](https://docs.google.com/spreadsheets/d/1HHkMUo97gVGhG9Rs_zOIGPG5DqB2P8dPVtVgEgsbu0s/edit#gid=0)
+* write values to a [Google Sheet](https://docs.google.com/spreadsheets/d/1HHkMUo97gVGhG9Rs_zOIGPG5DqB2P8dPVtVgEgsbu0s/edit#gid=0)
 * send an email to yourself
 * fetch the stock price for a list of given companies
 
