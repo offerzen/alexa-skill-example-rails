@@ -1,0 +1,3 @@
+mailgun:
+  url: "https://api:key-XXXXXXXXXXXXXXXXXXXXX@api.mailgun.net/v3/sandboxXXXXXXXXXXXXXXXXXXXXX.mailgun.org/messages"
+  from: "My Portfolio Skill <postmaster@sandboxXXXXXXXXXXXXXXXXXXXXX.mailgun.org>"
