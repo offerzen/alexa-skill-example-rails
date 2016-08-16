@@ -1,6 +1,6 @@
 # Alexa Skill Example for Rails
 
-This project demonstrate some of the functionality which can be achieved with an Alexa skill service. This services enables a user to:
+This project demonstrates some of the functionality which can be achieved with an Alexa skill service. This services enables a user to:
 
 * fetch values for a Google Sheet
 * write values to a Google Sheet
